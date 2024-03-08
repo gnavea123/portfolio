@@ -16,6 +16,13 @@ These are the steps required to install project:
 
 This Application was created using basic HTML and CSS.
 
+## Repository
+https://github.com/gnavea123/portfolio
+
+## Live Application
+https://gnavea123.github.io/portfolio/index.html
+
+
 ## Usage
 
 Instructions and examples for use:
@@ -24,11 +31,18 @@ Ths application uses a basic index.html file that includes a navbar with links t
 
 ## Screen captures of live application
 
-
-
-
-
-
+Main Home Page:
+![alt text](portfolio-home.png)
+----------------------------------------
+About Page:
+![alt text](portfolio-about.png)
+----------------------------------------
+Projects Page:
+![alt text](portfolio-projects.png)
+----------------------------------------
+Contact Page:
+![alt text](portfolio-contact.png) 
+----------------------------------------
 
 ## License
 
