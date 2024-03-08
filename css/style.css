@@ -9,8 +9,9 @@ font-family: 'Poppins', sans-serif;
 body {
     
 
-    background: #8eb0f0 ;
+    background: rgb(55, 173, 154) ;
     color: #ededed;
+    margin: 30px;
 }
 .header {
 
@@ -47,11 +48,15 @@ body {
 }
 .home {
     height: 100vh;
+    background: url('../images/githubprofile_header.jpg')no-repeat;
+    background-size: cover;
+    background-position: center;
     display: flex;
     align-items: center;
 }
 .home-content {
     max-width: 600px;
+    margin-left: 50px;
 }
 .home-content h1 {
     font-size: 56px;
@@ -99,14 +104,21 @@ body {
 } */
 .home-sci {
     position: absolute;
-    bottom: 40px;
+    bottom: 20px;
     width: 170px;
-    background: red;
+    margin-left: 70px;
 }
 .home-sci a {
     display: inline-flex ;
+    justify-content: center;
+    align-items: center;
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid #0070f0  ;
+    border: 2px solid #0070f0;
+    border-radius: 50%;
+    font-size: 20px;
+    color:  #0070f0;
+    text-decoration: none;
+
 }
