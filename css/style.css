@@ -122,3 +122,24 @@ body {
     text-decoration: none;
 
 }
+.projects {
+
+    display: flex;
+    margin:0;
+    padding:0;
+    list-style: none;
+    gap: 20rem;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
+.about {
+
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
